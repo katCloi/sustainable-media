@@ -8,3 +8,6 @@ The objective of the module is to bring awareness to sustainable issues in New J
 # Installation and Implementation Instructions
 Downlod and install [XAMPP](https://sourceforge.net/projects/xampp/)
 <img width="1078" alt="Screen Shot 2020-05-03 at 6 11 29 PM" src="https://user-images.githubusercontent.com/47569514/80927135-a8206800-8d69-11ea-8653-5df4cfcd1855.png">
+
+## Connecting to local server
+Click "Start" and wait for status to turn green.
