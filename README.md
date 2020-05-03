@@ -21,3 +21,7 @@ Wait until Status to turn green
  Enable the localhost:8080
  
 <img width="528" alt="Screen Shot 2020-05-03 at 6 15 45 PM" src="https://user-images.githubusercontent.com/47569514/80927448-f0408a00-8d6b-11ea-9c4c-145255374e4f.png">
+
+Mount /opt/lampp
+
+<img width="527" alt="Screen Shot 2020-05-03 at 6 16 00 PM" src="https://user-images.githubusercontent.com/47569514/80927514-53cab780-8d6c-11ea-91e3-bb78eda655d3.png">
