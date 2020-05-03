@@ -55,6 +55,9 @@ Open your browser and type "localhost:8080/phpmyadmin/" into the search bar. Thi
 
 <img width="1189" alt="Screen Shot 2020-05-03 at 6 58 31 PM" src="https://user-images.githubusercontent.com/47569514/80928096-457e9a80-8d70-11ea-92d3-72cbc84fbfbb.png">
 
-Select Choose file and click "Go" on the bottom right. Import all three files. You may need to do three separate imports.
+Select Choose file and import a database file. Click "Go" on the bottom right corner of the page. You may need to do three separate imports.
 
 Your database should look like this. <img width="239" alt="Screen Shot 2020-05-03 at 7 17 25 PM" src="https://user-images.githubusercontent.com/47569514/80928503-e9694580-8d72-11ea-941b-4962150e5cf6.png">
+
+## Completed Connection and Website 
+Your database should be connected via php at this point. You can go back to the website as instructed previously and navigate. 
