@@ -12,8 +12,7 @@ Downlod and install [XAMPP](https://sourceforge.net/projects/xampp/)
 ## Connecting to local server
 Click "Start" and wait for status to turn green.
 
-
-<img width="533" alt="Screen Shot 2020-05-03 at 6 15 04 PM" src="https://user-images.githubusercontent.com/47569514/80927271-a86d3300-8d6a-11ea-92a0-091dd2fd7b4f.png"> <img width="525" alt="Screen Shot 2020-05-03 at 6 15 33 PM" src="https://user-images.githubusercontent.com/47569514/80927378-858f4e80-8d6b-11ea-8d06-371c79e597eb.png">
-
+<img width="533" alt="Screen Shot 2020-05-03 at 6 15 04 PM" src="https://user-images.githubusercontent.com/47569514/80927271-a86d3300-8d6a-11ea-92a0-091dd2fd7b4f.png"> 
+<img width="420" alt="Screen Shot 2020-05-03 at 6 26 26 PM" src="https://user-images.githubusercontent.com/47569514/80927405-a9eb2b00-8d6b-11ea-813b-907de30acb62.png">
 
 
