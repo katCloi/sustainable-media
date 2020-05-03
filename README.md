@@ -30,7 +30,11 @@ Go to Volumes. Mount /opt/lampp
 Open your files window. The server should be mounted as a local server seen as "192.168.64.2"
 1. Select the file lampp. 
 2. Find the folder "htdocs"
-3. Download code files from this github repo and move thos files into this folder. Make sure name files stay the same. This ensures all files paths are connected. 
+3. Create a folder named "DBproject"
+4. Download code files from this github repo and move those files into this folder. Make sure name files stay the same. This ensures all files paths are connected. 
+
+*Note that you need to make a separate folder in the DBproject called "css" and put all css files into that folder*
+
 <img width="1133" alt="Screen Shot 2020-05-03 at 6 34 13 PM" src="https://user-images.githubusercontent.com/47569514/80927660-42ce7600-8d6d-11ea-910e-6f4ae12cfef5.png">
 
 ## Opening the Website
