@@ -43,3 +43,12 @@ Open your browser and type "localhost:8080/DBproject/homePage.php" into your sea
 Open your browser and type "localhost:8080/phpmyadmin/" into the search bar. This should lead to the phpMyAdmin website. This allows you to create a database. 
 
 <img width="1438" alt="Screen Shot 2020-05-03 at 6 50 15 PM" src="https://user-images.githubusercontent.com/47569514/80927916-f4ba7200-8d6e-11ea-822a-309fb34c1d20.png">
+
+1. Select new and name the database "SMdatabase"
+<img width="515" alt="Screen Shot 2020-05-03 at 6 51 39 PM" src="https://user-images.githubusercontent.com/47569514/80928036-cc7f4300-8d6f-11ea-9bf3-5a6ea38e5f02.png">
+
+2. In your database, go to "Import" at the top. Download the database files as provided in the repo. 
+
+<img width="1189" alt="Screen Shot 2020-05-03 at 6 58 31 PM" src="https://user-images.githubusercontent.com/47569514/80928096-457e9a80-8d70-11ea-92d3-72cbc84fbfbb.png">
+
+Select Choose file and import all three files. You may need to do three separate imports.
