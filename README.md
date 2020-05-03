@@ -32,3 +32,8 @@ Open your files window. The server should be mounted as a local server seen as "
 2. Find the folder "htdocs"
 3. Download code files from this github repo and move thos files into this folder. Make sure name files stay the same. This ensures all files paths are connected. 
 <img width="1133" alt="Screen Shot 2020-05-03 at 6 34 13 PM" src="https://user-images.githubusercontent.com/47569514/80927660-42ce7600-8d6d-11ea-910e-6f4ae12cfef5.png">
+
+##Opening the Website
+
+Open your browser and type "http://localhost:8080/DBproject/homePage.php" into your search bar.
+<img width="1101" alt="Screen Shot 2020-05-03 at 6 40 22 PM" src="https://user-images.githubusercontent.com/47569514/80927734-c4260880-8d6d-11ea-9c3b-cd71e9896cf4.png">
