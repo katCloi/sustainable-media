@@ -1,0 +1,237 @@
+
+/* title "Sustainable Media" style*/
+.main_header{
+  padding: 40px;
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+/* green background for main text -- homepage*/
+.main-container{
+  font-family: Arial, Helvetica, sans-serif;
+  width: 1000px;
+  background-color: #e4f0d5;
+  margin:auto;
+  padding: 30px;
+}
+/* format of main text -- homepage*/
+.main-container p{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50em;
+}
+/*image*/
+.bg-image{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/DBproject/notebook.jpg");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+/* bar with links*/
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+/* format of text in bar with links*/
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 50px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+/* separate format for login*/
+.navbar a.right {
+  float: right;
+}
+/* hover effect on link button of bar*/
+.navbar a:hover {
+  background-color: #a4ada3;
+  color: black;
+}
+/* containter of from --search form page*/
+.search-form{
+  margin:auto;
+  width: 1000px;
+  background-color: #e9e9e9;
+  text-align: center;
+}
+
+.search-form input[type=text] {
+  padding: 6px;
+  margin-top: 10px;
+  margin-right: 16px;
+  margin-bottom: 10px;
+  border: black;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.search-form label{
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+.search-form button[type=submit]{
+  padding:5px 25px;
+  cursor: pointer;
+  margin: 5px;
+  border-radius: 25px;
+}
+ .search-form button[type=submit]:hover{
+   background-color: #ddd;
+   color: black;
+ }
+
+ .search-form select{
+   padding: 20px;
+   font-size: 14px;
+   font-family: Arial, Helvetica, sans-serif;
+   cursor: pointer;
+ }
+
+ .commForm-box{
+  display: block;
+  border: 2px solid #73AD21;
+  border-radius: 25px;
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 100%;
+  cursor: pointer;
+ }
+ .commForm-box2{
+  display: block;
+  border: 2px solid #73AD21;
+  border-radius: 25px;
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 100%;
+  cursor: pointer;
+ }
+
+.commForm-box p{
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em;
+  cursor: pointer;
+}
+
+.commForm-box2 p{
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em;
+    cursor: pointer;
+}
+
+.commForm-box h3{
+  margin-left: auto;
+  margin-right: auto;
+  width: 34em;
+}
+
+.commForm-box2 h3{
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 34em;
+}
+
+.commForm-box:hover {
+  background-color: #ddd;
+}
+
+.commForm-container {
+  width: 700px;
+  background-color: #e4f0d5;
+  margin:auto;
+  padding: 30px;
+}
+
+.aClick a{
+  color: #636363;
+}
+.aClick a:visited {
+  color: none;
+}
+.aClick a:hover, .aClick a:active, .aClick a:focus {
+  color:#3e7d49;
+}
+
+.btnstyle button{
+  border-radius: 25px;
+  background-color: #7abf7f;
+  border: none;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-flex;
+  top: 40px;
+  right: 80px;
+  font-size: 16px;
+  position: absolute;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+.affect:hover{
+  box-shadow: 0 20px 20px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.submit-form{
+  display: block;
+  border-radius: 25px;
+  background-color: rgba(255, 255, 255, 0.7);
+  margin:auto;
+  text-align: center;
+}
+
+.submit-form input[type=text] {
+  padding: 6px;
+  margin-top: 10px;
+  margin-right: 16px;
+  margin-bottom: 10px;
+  width: 20em;
+  border: black;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid #73AD21;
+}
+
+.submit-form button[type=submit]{
+  padding:5px 25px;
+  cursor: pointer;
+  margin: 5px;
+  border-radius: 25px;
+  font-size: 20px;
+}
+ .submit-form button[type=submit]:hover{
+   background-color: #ddd;
+   color: black;
+ }
+
+ .submit-form select{
+   font-size: 17px;
+   font-family: Arial, Helvetica, sans-serif;
+   cursor: pointer;
+ }
+
+ .submit-form textarea{
+   border: 2px solid #73AD21;
+   padding: 6px;
+   margin-top: 10px;
+   margin-right: 16px;
+   margin-bottom: 10px;
+   width: 20em;
+   border: black;
+   font-size: 17px;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ .submit-form label{
+   font-size: 17px;
+   font-family: Arial, Helvetica, sans-serif
+ }

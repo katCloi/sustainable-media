@@ -1,0 +1,47 @@
+.open-info button{
+  border-radius: 25px;
+  background-color: #7abf7f;
+  border: none;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-flex;
+  left: 250px;
+  bottom: 50%;
+  font-size: 15px;
+  position: absolute;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+.affect2:hover{
+  box-shadow: 0 10px 10px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.info-popup {
+  display: none;
+  position: fixed;
+  bottom: 15%;
+  left: 200px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+.info-container{
+max-width: 300px;
+ padding: 10px;
+ background-color: white;
+}
+
+.info-container button{
+  border-radius: 25px;
+  background-color: #7abf7f;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-flex;
+  font-size: 15px;
+  position: absolute;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
