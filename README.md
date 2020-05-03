@@ -25,3 +25,9 @@ Wait until Status turns green.
 Go to Volumes. Mount /opt/lampp
 
 <img width="527" alt="Screen Shot 2020-05-03 at 6 16 00 PM" src="https://user-images.githubusercontent.com/47569514/80927514-53cab780-8d6c-11ea-91e3-bb78eda655d3.png">
+
+Open your files window. The server should be mounted as a local server seen as "192.168.64.2"
+1. Select the file lampp. 
+2. Find the folder "htdocs"
+3. Download code files from this github repo and move thos files into this folder. Make sure name files stay the same. This ensures all files paths are connected. 
+<img width="1133" alt="Screen Shot 2020-05-03 at 6 34 13 PM" src="https://user-images.githubusercontent.com/47569514/80927660-42ce7600-8d6d-11ea-910e-6f4ae12cfef5.png">
