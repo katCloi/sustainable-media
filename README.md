@@ -6,6 +6,6 @@ In New Jersey, there are several towns and municipalities that have several prob
 The objective of the module is to bring awareness to sustainable issues in New Jersey communities. Our web application should be able to help users have a means of voicing out local sustainability issues while also giving journalists a platform to write about these issues. Members of New Jersey communities and journalists will both benefit from our website because it will give them both a voice and possibly help provide a solution for their local problems.
 
 # Installation and Implementation Instructions
-Downlod and install [XAMMP] (https://sourceforge.net/projects/xampp/)
+Downlod and install [XAMMP](https://sourceforge.net/projects/xampp/)
 
 
