@@ -1,3 +1,4 @@
+<!--contributers: Katrina Gutierrez, Anushka Krishnakumar, Lisa Walker-->
 <?php
 include_once 'myphp_connect.php';
  ?>
@@ -18,6 +19,7 @@ include_once 'myphp_connect.php';
      </div>
      </form>
    </div>
+    <!-- Navigation Bar -->
  </div>
    <div class="navbar">
   <a href="homePage.php">Home</a>
@@ -32,6 +34,8 @@ include_once 'myphp_connect.php';
   <form action = "submit-form.php" method = "POST" class = 'submit-form'>
     <br>
     <h1> Submit a Form </h1>
+    <label> Member ID </label>
+    <br>
     <input type = "text" name = "memberID" placeholder = "Enter your MemberID">
     <br>
     <label> Name of Township </label>

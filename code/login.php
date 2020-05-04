@@ -1,3 +1,4 @@
+<!--contributers: Katrina Gutierrez, Anushka Krishnakumar, Lisa Walker-->
 <?php
 include_once 'myphp_connect.php';
  ?>
@@ -17,6 +18,7 @@ include_once 'myphp_connect.php';
      </div>
      </form>
    </div>
+    <!-- Navigation Bar -->
  </div>
    <div class="navbar">
   <a href="homePage.php">Home</a>

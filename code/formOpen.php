@@ -1,3 +1,4 @@
+<!--contributers: Katrina Gutierrez, Kevin McGrath, Gavin Bowman-->
 <?php
 include_once 'myphp_connect.php';
  ?>
@@ -17,6 +18,7 @@ include_once 'myphp_connect.php';
      </div>
      </form>
    </div>
+   <!-- Navigation Bar -->
  </div>
    <div class="navbar">
      <a href="homePage.php">Home</a>
@@ -24,6 +26,7 @@ include_once 'myphp_connect.php';
      <a href="submitAform.php">Submit a Form</a>
      <a href="login.php" class="right">Login</a>
 </div>
+<!-- Search bar with option-->
 <br> <br>
   <div class = "search-form">
   <form action = "search.php" method="POST">
