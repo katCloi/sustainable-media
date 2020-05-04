@@ -1,3 +1,5 @@
+/*contributers: Katrina Gutierrez, Anushka Krishnakumar, Lisa Walker*/
+/*Style of pop up button*/
 .open-info button{
   border-radius: 25px;
   background-color: #7abf7f;
@@ -14,9 +16,11 @@
   cursor: pointer;
   transition-duration: 0.4s;
 }
+/*affect on pop up button*/
 .affect2:hover{
   box-shadow: 0 10px 10px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
+/*position the pop and info*/
 .info-popup {
   display: none;
   position: fixed;
@@ -25,12 +29,13 @@
   border: 3px solid #f1f1f1;
   z-index: 9;
 }
+/*container of pop up*/
 .info-container{
 max-width: 300px;
  padding: 10px;
  background-color: white;
 }
-
+/*pop up button style*/
 .info-container button{
   border-radius: 25px;
   background-color: #7abf7f;

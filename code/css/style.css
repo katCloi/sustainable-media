@@ -1,4 +1,4 @@
-
+/*contributers: Katrina Gutierrez, Anushka Krishnakumar, Lisa Walker*/
 /* title "Sustainable Media" style*/
 .main_header{
   padding: 40px;
@@ -62,7 +62,7 @@
   background-color: #e9e9e9;
   text-align: center;
 }
-
+/* search form text style*/
 .search-form input[type=text] {
   padding: 6px;
   margin-top: 10px;
@@ -72,30 +72,31 @@
   font-size: 17px;
   font-family: Arial, Helvetica, sans-serif;
 }
-
+/* search form label style*/
 .search-form label{
   font-size: 17px;
   font-family: Arial, Helvetica, sans-serif
 }
-
+/*search form button style*/
 .search-form button[type=submit]{
   padding:5px 25px;
   cursor: pointer;
   margin: 5px;
   border-radius: 25px;
 }
+/*search from button affect*/
  .search-form button[type=submit]:hover{
    background-color: #ddd;
    color: black;
  }
-
+/*search form drop down styel*/
  .search-form select{
    padding: 20px;
    font-size: 14px;
    font-family: Arial, Helvetica, sans-serif;
    cursor: pointer;
  }
-
+/*from result style*/
  .commForm-box{
   display: block;
   border: 2px solid #73AD21;
@@ -104,6 +105,7 @@
   width: 100%;
   cursor: pointer;
  }
+ /*extra - ignore*/
  .commForm-box2{
   display: block;
   border: 2px solid #73AD21;
@@ -112,45 +114,45 @@
   width: 100%;
   cursor: pointer;
  }
-
+/*paragraph style of content in from*/
 .commForm-box p{
   margin-left: auto;
   margin-right: auto;
   width: 40em;
   cursor: pointer;
 }
-
+/*extra-ignore*/
 .commForm-box2 p{
   margin-left: auto;
   margin-right: auto;
   width: 40em;
     cursor: pointer;
 }
-
+/*heading style of form*/
 .commForm-box h3{
   margin-left: auto;
   margin-right: auto;
   width: 34em;
 }
-
+/*heading style */
 .commForm-box2 h3{
 
   margin-left: auto;
   margin-right: auto;
   width: 34em;
 }
-
+/*hover affect of form*/
 .commForm-box:hover {
   background-color: #ddd;
 }
-
+/*containter for form*/
 .commForm-container {
   width: 700px;
   background-color: #e4f0d5;
   margin:auto;
   padding: 30px;
 }
-
+/* link of form style*/
 .aClick a{
   color: #636363;
 }
@@ -160,7 +162,7 @@
 .aClick a:hover, .aClick a:active, .aClick a:focus {
   color:#3e7d49;
 }
-
+/*green button style*/
 .btnstyle button{
   border-radius: 25px;
   background-color: #7abf7f;
@@ -177,11 +179,11 @@
   cursor: pointer;
   transition-duration: 0.4s;
 }
-
+/*affect on green button*/
 .affect:hover{
   box-shadow: 0 20px 20px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
-
+/*style of form submission*/
 .submit-form{
   display: block;
   border-radius: 25px;
@@ -189,7 +191,7 @@
   margin:auto;
   text-align: center;
 }
-
+/*input style of form submission*/
 .submit-form input[type=text] {
   padding: 6px;
   margin-top: 10px;
@@ -201,7 +203,7 @@
   font-family: Arial, Helvetica, sans-serif;
   border: 2px solid #73AD21;
 }
-
+/*button styel of form submission*/
 .submit-form button[type=submit]{
   padding:5px 25px;
   cursor: pointer;
@@ -209,17 +211,18 @@
   border-radius: 25px;
   font-size: 20px;
 }
+/*hover affect on form submission button*/
  .submit-form button[type=submit]:hover{
    background-color: #ddd;
    color: black;
  }
-
+/*style of dropdwon*/
  .submit-form select{
    font-size: 17px;
    font-family: Arial, Helvetica, sans-serif;
    cursor: pointer;
  }
-
+/*style in text area -summary*/
  .submit-form textarea{
    border: 2px solid #73AD21;
    padding: 6px;
@@ -231,6 +234,7 @@
    font-size: 17px;
    font-family: Arial, Helvetica, sans-serif;
  }
+ /*label style*/
  .submit-form label{
    font-size: 17px;
    font-family: Arial, Helvetica, sans-serif
