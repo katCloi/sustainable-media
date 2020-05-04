@@ -37,7 +37,7 @@ Open your files window. The server should be mounted as a local server seen as "
 1. **Select the file lampp.**
 2. **Find the folder "htdocs"**
 3. **Create a folder named "DBproject"**
-4. **Download [code](code/) files from this github repo and move those files into this folder. Make sure name files stay the same. This ensures all file paths are connected.**
+4. **Download [code](code/) files from this github repo and move those files into this folder. Make sure name of the files stay the same. This ensures all file paths are connected.**
 
 *Note that you need to make a separate folder in the DBproject called "css" and put all css files into that folder*
 
