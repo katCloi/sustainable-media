@@ -32,7 +32,7 @@ Open your files window. The server should be mounted as a local server seen as "
 1. **Select the file lampp.**
 2. **Find the folder "htdocs"**
 3. **Create a folder named "DBproject"**
-4. **Download code files from this github repo and move those files into this folder. Make sure name files stay the same. This ensures all file paths are connected.**
+4. **Download [code](code/) files from this github repo and move those files into this folder. Make sure name files stay the same. This ensures all file paths are connected.**
 
 *Note that you need to make a separate folder in the DBproject called "css" and put all css files into that folder*
 
@@ -52,7 +52,7 @@ Open your browser and type "localhost:8080/phpmyadmin/" into the search bar. Thi
 1. **Select new and name the database "SMdatabase"**
 <img width="515" alt="Screen Shot 2020-05-03 at 6 51 39 PM" src="https://user-images.githubusercontent.com/47569514/80928036-cc7f4300-8d6f-11ea-9bf3-5a6ea38e5f02.png">
 
-2. **In your database, go to "Import" at the top. Download the database files as provided in the repo. [database](database/)These should all be ".sql" files.**
+2. **In your database, go to "Import" at the top. Download the [database](database/) files as provided in the repo. These should all be ".sql" files.**
 
 <img width="1189" alt="Screen Shot 2020-05-03 at 6 58 31 PM" src="https://user-images.githubusercontent.com/47569514/80928096-457e9a80-8d70-11ea-92d3-72cbc84fbfbb.png">
 
