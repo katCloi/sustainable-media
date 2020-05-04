@@ -28,10 +28,10 @@ Go to Volumes. Mount /opt/lampp
 
 ## Installing files
 Open your files window. The server should be mounted as a local server seen as "192.168.64.2"
-**1. Select the file lampp. 
-**2. Find the folder "htdocs"
-**3. Create a folder named "DBproject"
-4. Download code files from this github repo and move those files into this folder. Make sure name files stay the same. This ensures all file paths are connected.
+**1. Select the file lampp.**
+**2. Find the folder "htdocs"**
+**3. Create a folder named "DBproject"**
+**4. Download code files from this github repo and move those files into this folder. Make sure name files stay the same. This ensures all file paths are connected.**
 
 *Note that you need to make a separate folder in the DBproject called "css" and put all css files into that folder*
 
@@ -48,14 +48,14 @@ Open your browser and type "localhost:8080/phpmyadmin/" into the search bar. Thi
 
 <img width="1438" alt="Screen Shot 2020-05-03 at 6 50 15 PM" src="https://user-images.githubusercontent.com/47569514/80927916-f4ba7200-8d6e-11ea-822a-309fb34c1d20.png">
 
-**1. Select new and name the database "SMdatabase"
+**1. Select new and name the database "SMdatabase"**
 <img width="515" alt="Screen Shot 2020-05-03 at 6 51 39 PM" src="https://user-images.githubusercontent.com/47569514/80928036-cc7f4300-8d6f-11ea-9bf3-5a6ea38e5f02.png">
 
-**2. In your database, go to "Import" at the top. Download the database files as provided in the repo.These should all be ".sql" files.
+**2. In your database, go to "Import" at the top. Download the database files as provided in the repo.These should all be ".sql" files.**
 
 <img width="1189" alt="Screen Shot 2020-05-03 at 6 58 31 PM" src="https://user-images.githubusercontent.com/47569514/80928096-457e9a80-8d70-11ea-92d3-72cbc84fbfbb.png">
 
-**3. Select Choose file and import a database file. Click "Go" on the bottom right corner of the page. You may need to do three separate imports.
+**3. Select Choose file and import a database file. Click "Go" on the bottom right corner of the page. You may need to do three separate imports.**
 
 Your database should look like this. <img width="239" alt="Screen Shot 2020-05-03 at 7 17 25 PM" src="https://user-images.githubusercontent.com/47569514/80928503-e9694580-8d72-11ea-941b-4962150e5cf6.png">
 
