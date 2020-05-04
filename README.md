@@ -13,15 +13,15 @@ Downlod and install [XAMPP](https://sourceforge.net/projects/xampp/)
 Click "Start"
 
 <img width="533" alt="Screen Shot 2020-05-03 at 6 15 04 PM" src="https://user-images.githubusercontent.com/47569514/80927271-a86d3300-8d6a-11ea-92a0-091dd2fd7b4f.png"> 
-
+---
 Wait until Status turns green. 
 
 <img width="420" alt="Screen Shot 2020-05-03 at 6 26 26 PM" src="https://user-images.githubusercontent.com/47569514/80927405-a9eb2b00-8d6b-11ea-813b-907de30acb62.png">
-
- Go to Network. Enable the localhost:8080
+---
+Go to Network. Enable the localhost:8080
  
 <img width="528" alt="Screen Shot 2020-05-03 at 6 15 45 PM" src="https://user-images.githubusercontent.com/47569514/80927448-f0408a00-8d6b-11ea-9c4c-145255374e4f.png">
-
+---
 Go to Volumes. Mount /opt/lampp
 
 <img width="527" alt="Screen Shot 2020-05-03 at 6 16 00 PM" src="https://user-images.githubusercontent.com/47569514/80927514-53cab780-8d6c-11ea-91e3-bb78eda655d3.png">
