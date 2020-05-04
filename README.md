@@ -13,6 +13,7 @@ Downlod and install [XAMPP](https://sourceforge.net/projects/xampp/)
 Click "Start"
 
 <img width="533" alt="Screen Shot 2020-05-03 at 6 15 04 PM" src="https://user-images.githubusercontent.com/47569514/80927271-a86d3300-8d6a-11ea-92a0-091dd2fd7b4f.png"> 
+
 ***
 
 Wait until Status turns green. 
@@ -24,6 +25,8 @@ Wait until Status turns green.
 Go to Network. Enable the localhost:8080
  
 <img width="528" alt="Screen Shot 2020-05-03 at 6 15 45 PM" src="https://user-images.githubusercontent.com/47569514/80927448-f0408a00-8d6b-11ea-9c4c-145255374e4f.png">
+
+***
 
 Go to Volumes. Mount /opt/lampp
 
@@ -51,12 +54,18 @@ Open your browser and type "localhost:8080/phpmyadmin/" into the search bar. Thi
 
 <img width="1438" alt="Screen Shot 2020-05-03 at 6 50 15 PM" src="https://user-images.githubusercontent.com/47569514/80927916-f4ba7200-8d6e-11ea-822a-309fb34c1d20.png">
 
+***
+
 1. **Select new and name the database "SMdatabase"**
 <img width="515" alt="Screen Shot 2020-05-03 at 6 51 39 PM" src="https://user-images.githubusercontent.com/47569514/80928036-cc7f4300-8d6f-11ea-9bf3-5a6ea38e5f02.png">
+
+***
 
 2. **In your database, go to "Import" at the top. Download the [database](database/) files as provided in the repo. These should all be ".sql" files.**
 
 <img width="1189" alt="Screen Shot 2020-05-03 at 6 58 31 PM" src="https://user-images.githubusercontent.com/47569514/80928096-457e9a80-8d70-11ea-92d3-72cbc84fbfbb.png">
+
+***
 
 3. **Select Choose file and import a database file. Click "Go" on the bottom right corner of the page. You may need to do three separate imports.**
 
